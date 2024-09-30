@@ -1,0 +1,7 @@
+/* humanstxt.org */
+
+/* SITE */
+  Author: Dawid Fatyga
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software: SublimeText, Git
